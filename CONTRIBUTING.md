@@ -1,5 +1,8 @@
 # Contributing to the Security Essentials Track
 
+nu stiu ce greseala sa mai adaug.
+
+
 We welcome contributions to the content and source code of the Security Essentials Track.
 You may contribute by:
 

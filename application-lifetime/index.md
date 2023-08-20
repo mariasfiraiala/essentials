@@ -12,6 +12,8 @@ weight: 10
 - familiarity with Bash
 - familiarity with base64 (challenges only)
 
+GitHub nu trebuie să fie o greșeală.
+
 ## Reminders
 
 - a base64-encoded string usually ends with one or multiple '=' characters
