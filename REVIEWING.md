@@ -1,5 +1,7 @@
 # SSS Reviewer Guidelines
 
+alte greseli si aici
+
 These are recommendations for reviewing contributions to SSS repositories.
 Reviewing is important to ensure high quality and consistency of content.
 As a reviewer, we trust you will vet contributions and provide constructive suggestions to update them to fit the SSS guidelines.

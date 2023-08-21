@@ -4,6 +4,8 @@ type: docs
 weight: 10
 ---
 
+I am a fool.
+
 # Assembly Language
 
 ## Introduction
